@@ -1,5 +1,12 @@
-In the world between biology and data science
-======
+---
+permalink: /
+title: "In the world between biology and data science"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+26.04.2025
 
 Coming from a biological background, I always thought my career would be spent mostly in the lab. When I first moved toward data science and bioinformatics, I worried that I would grow too **distant** from the lab and from biology itself.
 
