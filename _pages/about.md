@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🔬 Behind the Scenes of Linh"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
