@@ -1,4 +1,4 @@
-
+In the world between biology and data science
 ======
 
 Coming from a biological background, I always thought my career would be spent mostly in the lab. When I first moved toward data science and bioinformatics, I worried that I would grow too **distant** from the lab and from biology itself.
